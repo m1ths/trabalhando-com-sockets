@@ -15,7 +15,3 @@ Este repositório contém experimentos e exemplos práticos utilizando sockets e
 - Módulo `socket`
 - Biblioteca `paramiko` (para conexões SSH)
 
-## 🚀 Como usar
-
-Clone o repositório:
-
